@@ -1,6 +1,6 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "8oVmusbX6i-cEHgyumRy8d12ghM",
+    "etag": "GIyHRSqDZ4ZBtShpDqo15s70rk8",
     "nextPageToken": "CBkQAA",
     "regionCode": "US",
     "pageInfo": {
@@ -10,846 +10,852 @@
     "items": [
         {
             "kind": "youtube#searchResult",
-            "etag": "e0gl_p6rM1Y_XfqaqsgrUR_1NaQ",
+            "etag": "FdkNshW8kqg8iju3b8wKivaM-Ks",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "q9Ms_I5z-qc"
+                "videoId": "a_80o2lDYec"
             },
             "snippet": {
-                "publishedAt": "2025-12-01T19:01:01Z",
-                "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
-                "title": "GETTING CAUGHT INSIDE AT 20ft PIPELINE!",
-                "description": "FUNDAY MERCHANDISE https://fundaysurf.com/ - JAMIE O'BRIEN SURF SCHOOL - TURTLE BAY - NORTH SHORE OAHU ...",
+                "publishedAt": "2023-11-02T11:00:04Z",
+                "channelId": "UCSGC87iX0QhnIfUOI_B_Rdg",
+                "title": "[Playlist] 슬슬 연말 분위기를 내볼까요? | 퍼펙트 크리스마스 캐롤 플레이리스트🎄🎅🎁 | Best Christmas Pop Songs Of All Time",
+                "description": "Playlist by 벅스PD (벅스 뮤직PD) *벅스에서 플레이리스트를 확인해보세요! :: http://bugs.kr/!yt0025 *벅스PD님의 감성이 내 취향 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/q9Ms_I5z-qc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/a_80o2lDYec/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/q9Ms_I5z-qc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/a_80o2lDYec/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/q9Ms_I5z-qc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/a_80o2lDYec/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Jamie O'Brien",
+                "channelTitle": "essential;",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-12-01T19:01:01Z"
+                "publishTime": "2023-11-02T11:00:04Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "WL67RYstdhGNyxVv2sQRbx_JLak",
+            "etag": "eOsWcqd6TCAB7G7kTFqlC6ceYgY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "rZTSglw7UPQ"
+                "videoId": "1CYbySbtyF0"
             },
             "snippet": {
-                "publishedAt": "2025-09-15T17:24:10Z",
-                "channelId": "UCyfKBloDWLyv4lHewP_cbpA",
-                "title": "Every Surfer NEEDS to Know Junior Moepono",
-                "description": "Junior Moepono had that amazing Hawaiian style ‍♂️ — smooth, powerful, and unforgettable. A true legend in surfing, his ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/rZTSglw7UPQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/rZTSglw7UPQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/rZTSglw7UPQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "STERLING SPENCER",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-09-15T17:24:10Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "375VR1Wf8GwrkOn_Fm2DQN1OQvE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ti7GLiaBxQE"
-            },
-            "snippet": {
-                "publishedAt": "2025-12-02T00:35:40Z",
-                "channelId": "UCDawiafJg2w0t1dVcI3e6Zw",
-                "title": "Big Super Clean Banzai Pipeline | Epic early morning 12/1/25 | Surfing North Shore Oahu Hawaii",
-                "description": "Hello December Banzai Pipeline North Shore Oahu Hawaii goes Big Super Clean Epic Surf in the early morning on the 12/1/2025 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ti7GLiaBxQE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ti7GLiaBxQE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ti7GLiaBxQE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Surf Kawela Hawaii",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-12-02T00:35:40Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "P0h-uyghFsaQCzyh-nB4-TlTxvk",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "kkmwntnAqcw"
-            },
-            "snippet": {
-                "publishedAt": "2025-12-02T00:22:43Z",
-                "channelId": "UCAI_JwgsU0IC7ol7xPGXrSw",
-                "title": "GENESIS - A Surf Film ft Luke Guinaldo and Dylan Sloan",
-                "description": "\"Genesis\" follows surfers Luke Guinaldo and Dylan Sloan as they travel through Indonesia. Two kids from Huntington Beach ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/kkmwntnAqcw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/kkmwntnAqcw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/kkmwntnAqcw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Luke Guinaldo",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-12-02T00:22:43Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "lIX7a8wpqRRCFUj_iM4Ct4bqGus",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "MZYc1pdNVe0"
-            },
-            "snippet": {
-                "publishedAt": "2023-03-16T02:30:09Z",
-                "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
-                "title": "🔴 (ASMR) Waves of the World/Surfing🌊 - Hawaii, Teahupo&#39;o - 10 Hour Loop for Stores",
-                "description": "Welcome to Waves of the World We are not your typical surfing channel. Our dedicated filmers from around the world produce the ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/MZYc1pdNVe0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/MZYc1pdNVe0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/MZYc1pdNVe0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Waves of the World",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-03-16T02:30:09Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "rL-_NwXkImiVE6nPJbNiMuY5cXk",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "y6tU7p4wwe4"
-            },
-            "snippet": {
-                "publishedAt": "2025-11-28T03:34:43Z",
-                "channelId": "UCDawiafJg2w0t1dVcI3e6Zw",
-                "title": "Thanksgiving PIPE Goes EPIC | Big wave surfing North Shore Oahu Hawaii | 3rd Reef Breaking",
-                "description": "Thanksgiving BANZAI PIPELINE Goes EPIC | Big wave surfing North Shore Oahu Hawaii | 3rd Reef Breaking on the Thanksgiving ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/y6tU7p4wwe4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/y6tU7p4wwe4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/y6tU7p4wwe4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Surf Kawela Hawaii",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-11-28T03:34:43Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "DW5bA8QymU2PzfAY-zjGxM3C1Ko",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "4bh0Oe8443U"
-            },
-            "snippet": {
-                "publishedAt": "2025-11-28T22:21:08Z",
-                "channelId": "UC6uX6GF5q2JxLjMkyivM2Og",
-                "title": "SURFING MORDORS MOST DANGEROUS WAVE! ",
-                "description": "YOUTUBE VIDS CONTINUE WEEKLY AS ALWAYS MY FRIENDS PLEASE SUBSCRIBE to help SUPPORT the channel!",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/4bh0Oe8443U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/4bh0Oe8443U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/4bh0Oe8443U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Nathan Florence",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-11-28T22:21:08Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "j5kS72s6gtV60xXx8DuA2kxAyA0",
-            "id": {
-                "kind": "youtube#channel",
-                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA"
-            },
-            "snippet": {
-                "publishedAt": "2019-02-18T17:03:24Z",
-                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-                "title": "Red Bull Surfing",
-                "description": "Welcome to the official Red Bull Surfing YouTube Channel! Watch weekly surf videos from across the world, with the likes of ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/8UQtJM5sA-1kkoARPb_PF1IGNPd5Rn5fGWAXlClu5znXvENTYCCEpa083lpYMZ_O-hhA3f8q=s88-c-k-c0xffffffff-no-rj-mo"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/8UQtJM5sA-1kkoARPb_PF1IGNPd5Rn5fGWAXlClu5znXvENTYCCEpa083lpYMZ_O-hhA3f8q=s240-c-k-c0xffffffff-no-rj-mo"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/8UQtJM5sA-1kkoARPb_PF1IGNPd5Rn5fGWAXlClu5znXvENTYCCEpa083lpYMZ_O-hhA3f8q=s800-c-k-c0xffffffff-no-rj-mo"
-                    }
-                },
-                "channelTitle": "Red Bull Surfing",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-02-18T17:03:24Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "A4k7jcOjziVdEo7xrsVj-cH8F5o",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "IiPk1VmKJTc"
-            },
-            "snippet": {
-                "publishedAt": "2023-02-18T19:00:10Z",
-                "channelId": "UCjIuqG1hCxUdLLxOD_uR0vQ",
-                "title": "Kelly Slaters Back Side No Grab at Pipeline",
-                "description": "11x World Champion Kelly Slater makes this wave without grabbing his rail. Only Kelly could! Just a reminder, Pipeline is no joke.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/IiPk1VmKJTc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/IiPk1VmKJTc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/IiPk1VmKJTc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Surfers of Hawaii",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-02-18T19:00:10Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "6YlgD028AkwH4JcJ9n0VoM05UZU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ae177AdSBdc"
-            },
-            "snippet": {
-                "publishedAt": "2025-05-21T10:19:30Z",
-                "channelId": "UCLp-zGbkrbHXvxG9tfD8hYw",
-                "title": "Outpaddling EVERYONE for the Wave of the Day!",
-                "description": "shorts #short #hawaii #gopro #surfing #waikiki.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ae177AdSBdc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ae177AdSBdc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ae177AdSBdc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Aidan Brown",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-05-21T10:19:30Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "WKWuABwzWk81OFEBdTVw6PyIqBM",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "9i09LeswfiQ"
-            },
-            "snippet": {
-                "publishedAt": "2025-06-03T19:06:18Z",
-                "channelId": "UCyfKBloDWLyv4lHewP_cbpA",
-                "title": "Major Surfing FIGHT!  Legends Shane Dorian &amp; Laird Hamilton",
-                "description": "Check out this amazing story at Stab! https://stabmag.com/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/9i09LeswfiQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/9i09LeswfiQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/9i09LeswfiQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "STERLING SPENCER",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-06-03T19:06:18Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "0gAOHoknxtcWkQwOWh8UvOIdhM4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "0hM7jmiwGz8"
-            },
-            "snippet": {
-                "publishedAt": "2023-02-14T20:30:00Z",
-                "channelId": "UCvOh9i-BOFzu51rpj33fGag",
-                "title": "Isn&#39;t this the dreamiest looking wave? #shorts",
-                "description": "BAREFOOT SURF TUTORIALS Our Online Coaching Platform & App 7-Day Free Trial to Access 25+ Complete Online ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/0hM7jmiwGz8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/0hM7jmiwGz8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/0hM7jmiwGz8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Barefoot Surf",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-02-14T20:30:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "2mOZSJ6Mfx9mYn0eqPc6jGjvaLE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "U9rfQ-MsUZY"
-            },
-            "snippet": {
-                "publishedAt": "2023-07-26T18:00:29Z",
-                "channelId": "UCwf1EqcZDlXCypkTovI9Mjg",
-                "title": "Surf day “fail” 🌊👙🐠 #surfing #floridalife #underwater",
+                "publishedAt": "2022-10-17T12:05:48Z",
+                "channelId": "UCVut4hqvrjQC4qDE3oc5qig",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 다가오는 크리스마스를 기다리며 l 캐롤 BEST 인기곡 총모음",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/U9rfQ-MsUZY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/1CYbySbtyF0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/U9rfQ-MsUZY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1CYbySbtyF0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/U9rfQ-MsUZY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1CYbySbtyF0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Brynley Joyner",
+                "channelTitle": "때껄룩ᴛᴀᴋᴇ ᴀ ʟᴏᴏᴋ",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-07-26T18:00:29Z"
+                "publishTime": "2022-10-17T12:05:48Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "cnLaoc2yiDcAfuEySRC-345FxZc",
+            "etag": "GMVQ94OnfSaHTnYFDHtbNE427eQ",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "hHOhBRGf_FM"
+                "videoId": "OICuxgu5T0E"
             },
             "snippet": {
-                "publishedAt": "2025-01-16T06:00:11Z",
-                "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
-                "title": "SURFING THE CLEANEST WAVES EVER! (RAW POV)",
-                "description": "Surfing up the Coast in the CLEANEST Glassy Waves My final surf of 2024! SUBSCRIBE for Weekly Surfing Content Find ...",
+                "publishedAt": "2025-11-22T23:00:28Z",
+                "channelId": "UCoIl0LyJh0BlkeBpsAlzHtA",
+                "title": "🎧 Playlist 이번 겨울❄️ 질리지 않는 크리스마스 캐롤 모음.zip 🎄🎅🏻 | 올해 가장 듣고 싶은 크리스마스 캐롤 모음🎶",
+                "description": "행복한 주말 보내고 계신가요?♥️ 오늘은 특히!! 요청이 많았던 캐롤 모음을 들려드려요! 신나는 캐롤부터, 가사 없이 편하게 들을 수 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/hHOhBRGf_FM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/OICuxgu5T0E/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/hHOhBRGf_FM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OICuxgu5T0E/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/hHOhBRGf_FM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OICuxgu5T0E/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Surfing With Noz",
+                "channelTitle": "eunyesi",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-01-16T06:00:11Z"
+                "publishTime": "2025-11-22T23:00:28Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "YMUoIx2ya0yT0mSOshVjKaDqDDc",
+            "etag": "9ZIaPNNsc9R0nFtY6hcFU9fkoAw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "ma67yOdMQfs"
+                "videoId": "kSOdLzsEeJg"
             },
             "snippet": {
-                "publishedAt": "2021-01-23T17:00:15Z",
-                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-                "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
-                "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
+                "publishedAt": "2025-11-11T01:39:58Z",
+                "channelId": "UCxGyH7vzYkZwFseTUa3yZpQ",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 미리 메리 크리스마스 🎅❣️┃설레는 크리스마스 캐롤 히트곡 모음",
+                "description": "playlist #플레이리스트 #크리스마스 #캐롤 #연말 구독과 좋아요는 큰 힘이 됩니다 ❣️ 본 채널은 영상 조회수로 수익 창출을 하지 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/kSOdLzsEeJg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kSOdLzsEeJg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kSOdLzsEeJg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Red Bull Surfing",
+                "channelTitle": "찐막 JJINMAK",
                 "liveBroadcastContent": "none",
-                "publishTime": "2021-01-23T17:00:15Z"
+                "publishTime": "2025-11-11T01:39:58Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "9uBUBjYHZJWQyqth_y3zC3vzo_8",
+            "etag": "0-TbsND9-mFcuYeEMteSQ2WIsrA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "SkwPbkgsHSU"
+                "videoId": "cGNnccgCSOs"
             },
             "snippet": {
-                "publishedAt": "2023-11-01T04:11:41Z",
-                "channelId": "UC_mxRACf5EueX6umgb1chNQ",
-                "title": "🏄‍♂️🏄‍♂️🌊Lil Dude Getting Surf Lessons From the Master Raimana #surfranch 🔥🔥🏄‍♂️🥷",
-                "description": "Super chill day surfing at surf ranch. What a fortunate experience to have a Raimana in the pool to teach and offer his expertise ...",
+                "publishedAt": "2024-10-11T04:15:02Z",
+                "channelId": "UCq1rszOu4lyGewrdR7829Cg",
+                "title": "[𝐏𝐥𝐚𝐲𝐥𝐈𝐬𝐭] 🎅 솔직히 나만 지금부터 캐롤 듣는 거 아니지? 🎄 | 크리스마스 캐롤 모음",
+                "description": "00:00 : It's Beginning To Look A Lot Iike Christmas - Matthew Ifield 03:14 : Winter Wonderland - Matthew Ifield 05:43 : Holly Jolly ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/SkwPbkgsHSU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/cGNnccgCSOs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/SkwPbkgsHSU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cGNnccgCSOs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/SkwPbkgsHSU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cGNnccgCSOs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Luke’s Surf Channel",
+                "channelTitle": "밝은사람들",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-11-01T04:11:41Z"
+                "publishTime": "2024-10-11T04:15:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "FaXI3M9v2xrKc4dnz9iThA42p5A",
+            "etag": "a6oP5Byub_uem-gt29AyDoOB6P8",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "3g-nF9uanuU"
+                "videoId": "bNmsjEY0-Cw"
             },
             "snippet": {
-                "publishedAt": "2025-01-16T23:42:20Z",
-                "channelId": "UCsa_rutvbeW4ty8sbbWx1qA",
-                "title": "The Reality Of Surfing🤬",
+                "publishedAt": "2025-11-16T23:04:56Z",
+                "channelId": "UCdp8WGk7l78AIGooOvO35IQ",
+                "title": "분위기 있는 재즈 크리스마스🎄✨잔잔한 캐롤 팝송 모음 | Design making tutorial",
+                "description": "크리스마스 #크리스마스송 #캐롤메들리 #캐롤모음 따뜻한 조명 아래에서 듣고 싶은 잔잔한 크리스마스 캐롤 모음  ✨ 설레는 겨울 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bNmsjEY0-Cw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bNmsjEY0-Cw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bNmsjEY0-Cw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Blue rain",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-16T23:04:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kZWeNjqsKbhaCOc0p2He5UHwEIA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gVqOlEwRKfI"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-04T23:01:03Z",
+                "channelId": "UCoIl0LyJh0BlkeBpsAlzHtA",
+                "title": "🎧 Playlist 나의 첫 번째 크리스마스🎄♥️ | 올해 가장 설레는 크리스마스 플레이리스트",
+                "description": "아 너무 기다렸습니다… 정말, 봄부터 기다렸어요…! 제가 크리스마스를 얼마나 사랑하는데요!! 즌쯔 기다렸뜨… 가만 안 들끄야,,,     ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gVqOlEwRKfI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gVqOlEwRKfI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gVqOlEwRKfI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "eunyesi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-04T23:01:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eFUY7CFrPlBkwtQ8sZwVlOM_Uxg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5ipgkb0mHnE"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-16T08:41:16Z",
+                "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+                "title": "Playlist | 듣기만 해도 설레는, 크리스마스 재즈🎅 | Christmas Jazz Playlist",
+                "description": "모든 음원은 직접 작곡 또는 편곡 및 연주한 창작물입니다. 본 채널 외 무단 사용을 금지합니다. 음원 제작 및 비즈니스 문의: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5ipgkb0mHnE/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5ipgkb0mHnE/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5ipgkb0mHnE/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jazzne | 기분Jazz네",
+                "liveBroadcastContent": "live",
+                "publishTime": "2025-09-16T08:41:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mbd-0HDTHoFS1eFM99rAtP_oc_Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lP7inavqxrU"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-18T16:52:06Z",
+                "channelId": "UCXj5o41j0fjY8Lf2mBY_4PQ",
+                "title": "[k-pop playlist] Christmas Songs 🎄 | 휴일을 위한 완벽한 플레이리스트",
+                "description": "Hello! To celebrate Christmas, I've prepared a special K-pop playlist! This playlist is packed with carols by various Korean ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lP7inavqxrU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lP7inavqxrU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lP7inavqxrU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "serene.",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-18T16:52:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vFAZO23wir3sxbqxA8pkW1i1NM0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sqlAPgMing0"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-29T13:00:50Z",
+                "channelId": "UC9k1vn9ErCoe7JngU6SubVw",
+                "title": "크리스마스 시즌에 뉴욕을 자주 못가는 이유🥹 #뉴욕 #크리스마스",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/3g-nF9uanuU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/sqlAPgMing0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/3g-nF9uanuU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sqlAPgMing0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/3g-nF9uanuU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sqlAPgMing0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Jonas Meskis",
+                "channelTitle": "mina in york 미나",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-01-16T23:42:20Z"
+                "publishTime": "2023-12-29T13:00:50Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "IXxIGVJbOM7ZX6nku9ZxgQe1XLo",
+            "etag": "B5pdkcCs193GLRnc6My-0gRXxB0",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "rAQ_G6lejLk"
+                "videoId": "uA9oWX3BOFQ"
             },
             "snippet": {
-                "publishedAt": "2024-06-25T20:30:04Z",
-                "channelId": "UCl3x43YzlP2RyWCNpOWV2oA",
-                "title": "Everyone was scared to surf it but him😳 #surf #epic #waves #surfing #maverick",
-                "description": "Surfer @MattBromleySurf and more of the best pro surfers experience some of the biggest waves in their lives in 'High Surf ...",
+                "publishedAt": "2025-11-09T13:47:11Z",
+                "channelId": "UCPzjGcGQeC9BckS6a18sJMg",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 듣기만 해도 심금을 울리는 크리스마스 캐롤 히트곡 모음",
+                "description": "playlist #크리스마스 #플레이리스트 #캐롤 #christmas #연말.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/rAQ_G6lejLk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/uA9oWX3BOFQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/rAQ_G6lejLk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uA9oWX3BOFQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/rAQ_G6lejLk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uA9oWX3BOFQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Outside TV",
+                "channelTitle": "기몽초 ɢɪᴍᴏɴɢᴄʜᴏ",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-06-25T20:30:04Z"
+                "publishTime": "2025-11-09T13:47:11Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "_Yx9FmWqPHYGimxEN3XZ3rg7BgQ",
+            "etag": "lTGua2HB-UdFuwhuLoJVaqcEkq8",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "jyDqEr9usxw"
+                "videoId": "KPX0RfuS-D4"
             },
             "snippet": {
-                "publishedAt": "2025-01-12T03:00:11Z",
-                "channelId": "UCEUYW6zm6KnUxPcwY1D8HsQ",
-                "title": "Surfing Epic XL Pipeline (2025)  4K HDR",
-                "description": "Bazai Pipeline, on the North Shore of Oahu, is the most photographed wave in the world. From its sheer natural beauty to all the ...",
+                "publishedAt": "2025-12-02T23:00:33Z",
+                "channelId": "UCoIl0LyJh0BlkeBpsAlzHtA",
+                "title": "🎧 Playlist 겨울 공기 가득❄️ 사랑스러운 크리스마스 캐롤♥️☃️🎄 | 올해 가장 듣고 싶은 크리스마스 캐롤 모음🎶 | Dec 03",
+                "description": "사랑하는 겨울이 드디어 시작되었어요! ❄️ 아침에 환기한다고 호기롭게 창문을 다 열었다가… 2분 만에 “아, 큰일났다” 하고 급히 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/jyDqEr9usxw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/KPX0RfuS-D4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/jyDqEr9usxw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KPX0RfuS-D4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/jyDqEr9usxw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KPX0RfuS-D4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Eimy’s Hawaii Happy life 🏄🏻",
+                "channelTitle": "eunyesi",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-01-12T03:00:11Z"
+                "publishTime": "2025-12-02T23:00:33Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "rfsTbNk0kVa8M-VfcOoWg_j84ag",
+            "etag": "snEhuRWMf7v3k46L7NowsmZFTrc",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Oh2r3XRCMfQ"
+                "videoId": "RYHmTkHN8d0"
             },
             "snippet": {
-                "publishedAt": "2024-05-05T20:04:17Z",
-                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-                "title": "Which Water Color&#39;s the Best For Surfing?",
-                "description": "Which Water Color's the Best For Surfing? #FreeSurfing #Teahupoo #Brazil.",
+                "publishedAt": "2025-11-13T23:00:39Z",
+                "channelId": "UCoIl0LyJh0BlkeBpsAlzHtA",
+                "title": "🎧 Playlist 이제 슬슬 크리스마스 준비해볼까?🎁✨🎄 | 올해 가장 듣고 싶은 크리스마스 캐롤 모음🎶",
+                "description": "여전히 행복한 금요일입니다♥️ 드디어 수능이 끝났네요! 그동안 최선을 다한 모든 분들, 정말 수고 많으셨어요☺️ 어제부터 드디어 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Oh2r3XRCMfQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/RYHmTkHN8d0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Oh2r3XRCMfQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/RYHmTkHN8d0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Oh2r3XRCMfQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/RYHmTkHN8d0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Red Bull Surfing",
+                "channelTitle": "eunyesi",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-05-05T20:04:17Z"
+                "publishTime": "2025-11-13T23:00:39Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "M_NhuyxW5sZqmWFXeFPipsPU-GA",
+            "etag": "PgrMvEP-R8Y6jm2hiSbVWjgr6p8",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "bImk2wEVVCc"
+                "videoId": "zUabvVJYKaY"
             },
             "snippet": {
-                "publishedAt": "2023-08-30T23:00:07Z",
-                "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
-                "title": "🔴(ASMR) Teahupo&#39;o: The Ultimate Surfing Experience - August 2023",
-                "description": "Welcome to Waves of the World Waves of the World Merch: https://www.teepublic.com/stores/waves-of-the-world?ref_id=39840 ...",
+                "publishedAt": "2025-11-18T08:01:28Z",
+                "channelId": "UCSGC87iX0QhnIfUOI_B_Rdg",
+                "title": "[Playlist] 크리스마스에 눈이 올까요? ☃️ | 화이트 크리스마스를 기대하며 듣는 2022 캐롤 팝송 | Merry White Christmas ☃️",
+                "description": "Playlist by 벅스PD (벅스 뮤직PD) *저작권 이슈로 차단된 2022.12.16 영상 재업로드 버전입니다 :) *벅스에서 플레이리스트를 확인해 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/bImk2wEVVCc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/zUabvVJYKaY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/bImk2wEVVCc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/zUabvVJYKaY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/bImk2wEVVCc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/zUabvVJYKaY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Waves of the World",
+                "channelTitle": "essential;",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-08-30T23:00:07Z"
+                "publishTime": "2025-11-18T08:01:28Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "jR6WH1iExIhl91d0caWLFyTdi9A",
+            "etag": "xwtVpFcHSCDV5r0c6omWdezIGTU",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Rvhj2Z1jB8A"
+                "videoId": "6gJTJLG2pW8"
             },
             "snippet": {
-                "publishedAt": "2025-08-09T02:10:42Z",
-                "channelId": "UCA9V7lYDPCyqW4rzMUr5UuA",
-                "title": "7yrd surfer scorpions on sand! 🦂 #wipeout  #surfing",
-                "description": "",
+                "publishedAt": "2024-11-22T10:54:02Z",
+                "channelId": "UCntAxEXrxBbSAsCrjxPcx0w",
+                "title": "🎄🎁 설렘 폭발! 💖 6시간 쭉~ 듣는 크리스마스 캐롤 플레이리스트 🎅🎶",
+                "description": "여러분이 사랑해주신 이 곡들의 새로운 연주 버전도 만나보세요! ▷ ☕ 아늑한 재즈 트리오 버전 (Christmas Jazz Songs): ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Rvhj2Z1jB8A/default.jpg",
+                        "url": "https://i.ytimg.com/vi/6gJTJLG2pW8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Rvhj2Z1jB8A/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/6gJTJLG2pW8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Rvhj2Z1jB8A/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/6gJTJLG2pW8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Cruz Dinofa",
+                "channelTitle": "One Peace Healing BGM",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-08-09T02:10:42Z"
+                "publishTime": "2024-11-22T10:54:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "0I924P8qi9GSOmti-qb8j8vt6c0",
+            "etag": "LrakHGLZxHnCB0BYdzfewn5XB2M",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "miL6mSPAfAo"
+                "videoId": "GIR6k8YPiQk"
             },
             "snippet": {
-                "publishedAt": "2025-10-08T23:02:09Z",
-                "channelId": "UCIWp84MTu5gacLh-GoJ8QGg",
-                "title": "Surf tip: How to pop up with Rob Machado",
-                "description": "Want to improve your pop up? Take a look at @rob_machado 's technique. SIGN UP for our free video library and newsletter!",
+                "publishedAt": "2023-12-17T12:45:01Z",
+                "channelId": "UC3LTWdIZt0jD_9XQMKsnQVQ",
+                "title": "[Playlist] 70년대 뉴욕의 화이트 크리스마스와 빈티지 재즈",
+                "description": "Contact & SNS :https://linktr.ee/Oneplaylist #눈 #겨울 #재즈.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/miL6mSPAfAo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/GIR6k8YPiQk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/miL6mSPAfAo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/GIR6k8YPiQk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/miL6mSPAfAo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/GIR6k8YPiQk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Basis Surf",
+                "channelTitle": "원플리 Oneplaylist",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-10-08T23:02:09Z"
+                "publishTime": "2023-12-17T12:45:01Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "IAd6Hrt9l_bnjO89mI4Hs4L0bjc",
+            "etag": "-B5qpqhf7bkkhgR2vdzvX46UT08",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "1mXQaSA3-rE"
+                "videoId": "SSh7gi95xMI"
             },
             "snippet": {
-                "publishedAt": "2023-08-28T20:43:44Z",
-                "channelId": "UCKo-NbWOxnxBnU41b-AoKeA",
-                "title": "The locals of Teahupo’o doing what they do best 👍",
-                "description": "Watch the full film: https://www.surfer.com/trending-news/locals-only-teahupoo-super-surf-edit : Matahi Drollet : Tucker ...",
+                "publishedAt": "2025-11-03T00:03:46Z",
+                "channelId": "UCdp8WGk7l78AIGooOvO35IQ",
+                "title": "로맨틱 재즈 크리스마스🎄 감성 빈티지 캐롤 플리 🎅 Design making tutorial",
+                "description": "Romantic Jazz Christmas | Vintage Holiday Playlist 따뜻하고 로맨틱한 재즈 선율로 가득한 감성 빈티지 크리스마스 캐롤 플리 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/1mXQaSA3-rE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/SSh7gi95xMI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/1mXQaSA3-rE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SSh7gi95xMI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/1mXQaSA3-rE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SSh7gi95xMI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "SURFER",
+                "channelTitle": "Blue rain",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-08-28T20:43:44Z"
+                "publishTime": "2025-11-03T00:03:46Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "NBdQVMXtUzRARjoeo0_I7M7z5Rg",
+            "etag": "Ga_XtX5Kfmxf8hRsQ-UyvDUgypA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "G0XyrIarLyA"
+                "videoId": "z_WLELlE6HY"
             },
             "snippet": {
-                "publishedAt": "2024-05-28T22:42:59Z",
-                "channelId": "UC4i3-yfVazfuqwoz71T79Sw",
-                "title": "Every surfers nightmare. Christofher Muñoz diving under an avalanche at Punta De Lobos, Chile.",
-                "description": "",
+                "publishedAt": "2025-12-02T23:01:31Z",
+                "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
+                "title": "[Christmas Carol] 크리스마스 낭만 그 잡채🤍 듣기만 해도 설레는 크리스마스 재즈🎄🎅🏻  (중간광고없음❌, 카페음악, 매장음악) Christmas Jazz",
+                "description": "모든 음원은 직접 연주한 음원입니다.(All songs are songs that I played myself.) Playlist   [00:00] Its Beginning To ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/G0XyrIarLyA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/z_WLELlE6HY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/G0XyrIarLyA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/z_WLELlE6HY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/G0XyrIarLyA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/z_WLELlE6HY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Surfline",
+                "channelTitle": "MONKEY BGM",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-05-28T22:42:59Z"
+                "publishTime": "2025-12-02T23:01:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VcWLJ_yExWSa8cez78WfasZMXI0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "D0gGdDu-HeQ"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-27T14:03:43Z",
+                "channelId": "UC4WVRLAjvn_qF6gWAzLdKyg",
+                "title": "한국이랑 너무 달라서 안믿기는 서양의 진짜 크리스마스 모습 #shorts",
+                "description": "크리스마스 #영국크리스마스.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D0gGdDu-HeQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D0gGdDu-HeQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D0gGdDu-HeQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "초이로그",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-27T14:03:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yWOCSVx36DHE2UPvBAQ5Gt4Q_XI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ODmtFwTB_8s"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-22T01:20:22Z",
+                "channelId": "UCA9wc_B3kTRaNfg3n7X-T2Q",
+                "title": "❌ 광고없음❌[LIVE ]𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 올해도 돌아온 크리스마스 감성🎁 듣기만 해도 행복해지는 팝 캐롤 플리💗",
+                "description": "한 해 중 가장 설레는 순간이 돌아왔습니다✨ 듣기만 해도 기분이 좋아지는 크리스마스 팝송과 캐롤들을 따뜻하게 담아낸 겨울 전용 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ODmtFwTB_8s/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ODmtFwTB_8s/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ODmtFwTB_8s/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "수아의집suazip",
+                "liveBroadcastContent": "live",
+                "publishTime": "2025-11-22T01:20:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a0b3gYO0WFM9_-UeH91ykPqHYyY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3HF-AikHAzM"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-05T22:25:34Z",
+                "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
+                "title": "꿈에서 산타 할아버지를 만날 것만 같은 크리스마스캐롤🎅🏻🎄조용하고 잔잔한 크리스마스캐롤 피아노 연주 모음 l Cozy&amp;Relaxing Christmas Piano Music🤍",
+                "description": "모든 음원은 직접 연주한 음원입니다.(All the music is directly performed.)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3HF-AikHAzM/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3HF-AikHAzM/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3HF-AikHAzM/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MONKEY BGM",
+                "liveBroadcastContent": "live",
+                "publishTime": "2025-11-05T22:25:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2i84PF4sWXjGoTYoizg5iJuVvuU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HCLeqQ8iUx0"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-09T23:00:17Z",
+                "channelId": "UCuStKyQZSaPoEbtqNT46qzg",
+                "title": "[Playlist] 다가오는 크리스마스를 기다리며🐶🎅🏻 𝐌𝐞𝐫𝐫𝐲 𝐂𝐡𝐫𝐢𝐬𝐭𝐦𝐚𝐬🎄(중간광고없음❌,매장음악, 카페음악, 크리스마스에 듣기 좋은 캐롤 모음)",
+                "description": "Playlist by WYF Playlist   [00:00] Like Its Christmas [02:21] Christmas Without You [05:49] Snowman ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HCLeqQ8iUx0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HCLeqQ8iUx0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HCLeqQ8iUx0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "What's Your Favorite?",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-09T23:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kSVr9iOPwzmqn-ArLTiNBq9eCys",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w8WHE-1PQog"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-31T09:30:03Z",
+                "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+                "title": "Playlist | 로맨틱한 크리스마스 분위기 내고 싶을 때❣️with Jazz | 겨울에 듣기 좋은 편안한 크리스마스 재즈 캐롤🎄🤍 | Warm &amp; Cozy Jazz music",
+                "description": "모든 음원은 직접 작곡 또는 편곡 및 연주한 창작물입니다. 본 채널 외 무단 사용을 금지합니다. 음원 제작 및 비즈니스 문의: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w8WHE-1PQog/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w8WHE-1PQog/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w8WHE-1PQog/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jazzne | 기분Jazz네",
+                "liveBroadcastContent": "live",
+                "publishTime": "2025-10-31T09:30:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6kPiXrvUOH4WKmPHhKHzr0c1Sqw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZEVeswWkuI0"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-21T05:26:21Z",
+                "channelId": "UCaXcS7QYK5w3Ayz4Zo99F1g",
+                "title": "지금부터 들어야 할 크리스마스 캐롤 TOP5",
+                "description": "다가오는 크리스마스, 내 플레이리스트에 빠지지 않는 최애 캐롤은❓ #shorts #크리스마스 #크리스마스캐롤 #캐롤순위 #캐롤모음 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZEVeswWkuI0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZEVeswWkuI0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZEVeswWkuI0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "미닛TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-21T05:26:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Z1qwRiAaZgBiOAV28AwBccgyS1w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KhqNTjbQ71A"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-18T18:21:33Z",
+                "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+                "title": "Wham! - Last Christmas (Lyrics)",
+                "description": "Follow the official 7clouds playlist on Spotify : https://lnkfi.re/7cloudsSpotify​ Wham! - Last Christmas (Lyrics) ⏬ Download ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KhqNTjbQ71A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KhqNTjbQ71A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KhqNTjbQ71A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "7clouds",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-18T18:21:33Z"
             }
         }
     ]

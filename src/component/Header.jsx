@@ -12,7 +12,7 @@ const Header = () => {
   };
   const handleSubmit = (e) => {
     e.preventDefault();
-    navigate(`/videos/${text}`);
+    navigate(`/videos?query=${text}`);
   };
 
   useEffect(() => {
